@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @Sauhardya27
-- 👀 I’m interested in coding and learning new languages
-- 🌱 I’m currently learning C++
+- 🌱 Hi, I’m @Sauhardya27
+- 🚀 Passionate B.Tech student immersed in the world of Computer Science and Engineering.
+- 💻 Proficient in C/C++, with a knack for crafting captivating Front-end experiences.
+- 🌐 Enthusiastically diving into the realm of Back-end development to create seamless digital ecosystems. Learning and evolving, one line of code at a time.
 
 <!---
 Sauhardya27/Sauhardya27 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
