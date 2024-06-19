@@ -2,7 +2,7 @@
 <h3 align="center">A passionate MERN stack developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/5690231/screenshots/16191500/media/4fbd0ec22f13a3521bb37cc5fe8b1cb3.gif" />
 
-- 🌱 I’m currently learning **NextJS**
+- 🌱 I’m currently learning **Solidity**
 
 - 💬 Ask me about **MERN stack**
 
