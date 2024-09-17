@@ -17,6 +17,8 @@
 <a href="https://www.leetcode.com/sauhardya27" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sauhardya27" height="30" width="40" /></a>
 </p>
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=Sauhardya27&theme=juicyfresh)](https://github.com/Sauhardya27/github-profile-trophy)
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> 
