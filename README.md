@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Sauhardya Chakraborty</h1>
 <h3 align="center">A passionate MERN stack developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/5690231/screenshots/16191500/media/4fbd0ec22f13a3521bb37cc5fe8b1cb3.gif" />
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=Sauhardya27&label=Profile%20views&color=0e75b6&style=flat" alt="Sauhardya27" />
+</p>
 
 - 🌱 I’m currently learning **Solidity**
 
@@ -10,11 +13,16 @@
 
 - ⚡ Fun fact: **I think I am funny**
 
-## 📫 Connect with me:
+## 📫 Connect with me
 <p align="left">
-<a href="https://linkedin.com/in/sauhardya-chakraborty-1b6345254" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sauhardya-chakraborty-1b6345254" height="30" width="40" /></a>
-<a href="https://instagram.com/the_zestful_soul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="the_zestful_soul" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/sauhardya27" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sauhardya27" height="30" width="40" /></a>
+	<a href="https://linkedin.com/in/sauhardya-chakraborty-1b6345254" target="blank">
+		<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sauhardya-chakraborty-1b6345254" height="30" width="40" />
+	</a>
+	<a href="https://instagram.com/the_zestful_soul" target="blank">
+		<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="the_zestful_soul" height="30" width="40" />	</a>
+	<a href="https://www.leetcode.com/sauhardya27" target="blank">
+		<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sauhardya27" height="30" width="40" />
+	</a>
 </p>
 
 ## 📊 GitHub Status
