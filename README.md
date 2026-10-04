@@ -15,7 +15,7 @@
 
 ## 📫 Connect with me
 <p align="left">
-	<a href="https://linkedin.com/in/sauhardya-chakraborty-1b6345254" target="blank">
+	<a href="http://www.linkedin.com/in/sauhardya-chakraborty" target="blank">
 		<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sauhardya-chakraborty-1b6345254" height="30" width="40" />
 	</a>
 	<a href="https://instagram.com/the_zestful_soul" target="blank">
